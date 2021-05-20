@@ -1,0 +1,10 @@
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\bin\Debug\Pheonix_Launcher.exe.config
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\bin\Debug\Pheonix_Launcher.exe
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\bin\Debug\Pheonix_Launcher.pdb
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.csprojAssemblyReference.cache
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.Form1.resources
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.Properties.Resources.resources
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.csproj.GenerateResource.cache
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.exe
+C:\Users\kac44\source\repos\Pheonix_Launcher\Pheonix_Launcher\obj\Debug\Pheonix_Launcher.pdb
