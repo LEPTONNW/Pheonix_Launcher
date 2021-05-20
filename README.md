@@ -10,7 +10,7 @@ https://miningpoolhub.com/ 에 가입 되어 있어야 하며
 유튜브 및 https://bitcointalk.org/index.php?topic=2647654.0 과 같은 피닉스마이너의 개발자 페이지를 참고하시기 바랍니다.
 
 # 사용방법 
-Release 폴더안에 기본적으로 Pheonix Miner가 포함되어있습니다. 시간이 지남에 따라 버전이 변경될 수 있으니 
+Release 폴더안에 기본적으로 Pheonix Miner가 포함되어있으며, 이더리움을 채굴하도록 되어있습니다. 시간이 지남에 따라 버전이 변경될 수 있으니 
 
 버전을 패치하고자 한다면 개발자 페이지에서 파일을 받아 덮어 씌우시면 됩니다.
 
