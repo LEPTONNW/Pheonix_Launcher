@@ -1,0 +1,13 @@
+2021.04.03:19:53:02.750: main Phoenix Miner 5.5c Windows/msvc - Release build
+2021.04.03:19:53:02.750: main Cmd line: -pool asia.ethash-hub.miningpoolhub.com:20535 -wal kac4484.01 -pass x -proto 1 
+2021.04.03:19:53:02.819: main CUDA version: 11.0, CUDA runtime: 8.0
+2021.04.03:19:53:02.925: main No OpenCL platforms found
+2021.04.03:19:53:02.926: main Available GPUs for mining:
+2021.04.03:19:53:02.926: main GPU1: GeForce GTX 1070 (pcie 1), CUDA cap. 6.1, 8 GB VRAM, 16 CUs
+2021.04.03:19:53:02.926: main GPU2: GeForce RTX 3080 (pcie 8), CUDA cap. 8.6, 10 GB VRAM, 68 CUs
+2021.04.03:19:53:02.935: main NVML library initialized
+2021.04.03:19:53:02.975: main Nvidia driver version: 461.72
+2021.04.03:19:53:03.502: main Eth: the pool list contains 1 pool (1 from command-line)
+2021.04.03:19:53:03.502: main Eth: primary pool: asia.ethash-hub.miningpoolhub.com:20535
+2021.04.03:19:53:03.502: main Starting GPU mining
+2021.04.03:19:53:03.505: hwmc GPU1: unable to get fan speed - Not Supported (3)
